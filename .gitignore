@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.ipynb
+figs/
+analysis/eda.py
+analysis/plots.py
+main.py
+models/sir_model_stochasticity.py
