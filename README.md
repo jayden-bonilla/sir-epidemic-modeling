@@ -61,7 +61,7 @@ result:
 
 \
 python3 reproduce_covid_estimate.py
-\
+
 
 ## Repository structure
 
